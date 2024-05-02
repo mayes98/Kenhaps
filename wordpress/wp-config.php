@@ -27,7 +27,7 @@ define( 'DB_NAME', 'portfolio_db' );
 define( 'DB_USER', 'portfolio_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'mayes5678' );
+define( 'DB_PASSWORD', '######' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
